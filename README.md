@@ -1,4 +1,4 @@
-# HASS Data Exporter
+# HASS to JSON
 
 A small helper script to export Home Assistant data (e.g., sensors, entities, and configurations) into JSON files. This is particularly useful when you want to upload your Home Assistant data into an LLM (Large Language Model) to enable automation creation, data analysis, or to let the LLM know your entity and sensor names.
 
