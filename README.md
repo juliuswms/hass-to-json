@@ -29,17 +29,18 @@ This tool is designed to make it easier for users to interact with their Home As
 
  Run the script:
  `python main.py`
+ 
  Enter your Home Assistant URL and Long-Lived Access Token when prompted.
  
  Select the API endpoints you want to export:
-   Configuration
-   Events
-   Services
-   States
-   Error Log
-   Check Config
+   - Configuration
+   - Events
+   - Services
+   - States
+   - Error Log
+   - Check Config
 
- The data will be saved in the data/ directory as .json files.
+ The data will be saved in the `data/` directory as .json files.
 
 ## Requirements
 
